@@ -10,7 +10,7 @@ grunt.initConfig({
         base: ".",
         directory:null,
         open:true,
-        keepalive:true
+        keepalive: true
       }
     }
   }
