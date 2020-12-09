@@ -3,11 +3,11 @@ module.exports=function(grunt){
 grunt.initConfig({
   connect:{
     server:{
-      option:{
+      option: {
         port:8000,
         protocol:"http",
-        hostname:"localhost,"
-        base:"."
+        hostname:"localhost",
+        base: ".",
         directory:null,
         open:true,
         keepalive:true
